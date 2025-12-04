@@ -14,6 +14,17 @@
 9. Pimoroni Badge - https://shop.pimoroni.com/products/bearables-fox-kit
 10. Arduino UNO MINI - https://shop.pimoroni.com/products/arduino-uno-mini-limited-edition
 
+Videos referenced:
+- Dasai Mochi: https://youtu.be/QOoszpg0BsM
+- Reflective LCD: https://youtu.be/ADmfI2H1qME
+- Nixie Tube: https://youtu.be/_gC2J5ZqJfQ
+- Themes for clocks: https://youtu.be/F6b85vHGwGI
+- Arduino game: https://youtu.be/RmhiZg_6-Mo
+- Arduino gaming: https://youtu.be/brjS56u5oHk
+- IPS clocks: https://youtu.be/Q-yf9hQRpU4
+- Nixie clocks without nixie tubes: https://youtu.be/cbU3y4pe4FQ
+- Arduino UNO mini: https://youtu.be/kBAcaA7NAlA
+
 ![THUMB_xmas_gift_guide](https://github.com/user-attachments/assets/2ac05235-6294-4663-992e-808f10a2620f)
 
 
